@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MindfulHaven - 心宁港湾",
+  "description": "A comprehensive digital mental health platform connecting clients with professional counselors using AI matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
